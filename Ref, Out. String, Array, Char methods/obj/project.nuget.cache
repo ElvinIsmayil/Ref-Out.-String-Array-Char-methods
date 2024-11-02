@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "e19jhjXvmblsVPVOC2fpHyMhnuljBjorm3xZkUZrXIsNacRvbZ1fgo57GLjQ5m/Gzzl7RWAsthvhAHbOk1ZMzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Ref, Out. String, Array, Char methods\\Ref, Out. String, Array, Char methods\\Ref, Out. String, Array, Char methods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elvin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Elvin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Elvin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Elvin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

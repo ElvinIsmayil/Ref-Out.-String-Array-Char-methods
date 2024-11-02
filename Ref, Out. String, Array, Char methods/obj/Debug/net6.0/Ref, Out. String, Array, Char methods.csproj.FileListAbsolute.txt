@@ -1,0 +1,15 @@
+C:\Users\Elvin\Desktop\C#\Console Apps\Ref, Out. String, Array, Char methods\Ref, Out. String, Array, Char methods\obj\Debug\net6.0\Ref, Out. String, Array, Char methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvin\Desktop\C#\Console Apps\Ref, Out. String, Array, Char methods\Ref, Out. String, Array, Char methods\obj\Debug\net6.0\Ref, Out. String, Array, Char methods.AssemblyInfoInputs.cache
+C:\Users\Elvin\Desktop\C#\Console Apps\Ref, Out. String, Array, Char methods\Ref, Out. String, Array, Char methods\obj\Debug\net6.0\Ref, Out. String, Array, Char methods.AssemblyInfo.cs
+C:\Users\Elvin\Desktop\C#\Console Apps\Ref, Out. String, Array, Char methods\Ref, Out. String, Array, Char methods\obj\Debug\net6.0\Ref, Out. String, Array, Char methods.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\Desktop\C#\Console Apps\Ref, Out. String, Array, Char methods\Ref, Out. String, Array, Char methods\obj\Debug\net6.0\Ref, Out. String, Array, Char methods.sourcelink.json
+C:\Users\Elvin\Desktop\C#\Console Apps\Ref, Out. String, Array, Char methods\Ref, Out. String, Array, Char methods\bin\Debug\net6.0\Ref, Out. String, Array, Char methods.exe
+C:\Users\Elvin\Desktop\C#\Console Apps\Ref, Out. String, Array, Char methods\Ref, Out. String, Array, Char methods\bin\Debug\net6.0\Ref, Out. String, Array, Char methods.deps.json
+C:\Users\Elvin\Desktop\C#\Console Apps\Ref, Out. String, Array, Char methods\Ref, Out. String, Array, Char methods\bin\Debug\net6.0\Ref, Out. String, Array, Char methods.runtimeconfig.json
+C:\Users\Elvin\Desktop\C#\Console Apps\Ref, Out. String, Array, Char methods\Ref, Out. String, Array, Char methods\bin\Debug\net6.0\Ref, Out. String, Array, Char methods.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Ref, Out. String, Array, Char methods\Ref, Out. String, Array, Char methods\bin\Debug\net6.0\Ref, Out. String, Array, Char methods.pdb
+C:\Users\Elvin\Desktop\C#\Console Apps\Ref, Out. String, Array, Char methods\Ref, Out. String, Array, Char methods\obj\Debug\net6.0\Ref, Out. String, Array, Char methods.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Ref, Out. String, Array, Char methods\Ref, Out. String, Array, Char methods\obj\Debug\net6.0\refint\Ref, Out. String, Array, Char methods.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Ref, Out. String, Array, Char methods\Ref, Out. String, Array, Char methods\obj\Debug\net6.0\Ref, Out. String, Array, Char methods.pdb
+C:\Users\Elvin\Desktop\C#\Console Apps\Ref, Out. String, Array, Char methods\Ref, Out. String, Array, Char methods\obj\Debug\net6.0\Ref, Out. String, Array, Char methods.genruntimeconfig.cache
+C:\Users\Elvin\Desktop\C#\Console Apps\Ref, Out. String, Array, Char methods\Ref, Out. String, Array, Char methods\obj\Debug\net6.0\ref\Ref, Out. String, Array, Char methods.dll
